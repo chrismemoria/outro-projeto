@@ -15,7 +15,7 @@
 }
 
 .background {
-    background-image: url(Fundo.jpg);
+    background-image: url(Fundo.png);
     image-rendering: optimizeQuality;
     background-color: #101010;
     height: 100vh;
