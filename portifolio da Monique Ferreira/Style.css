@@ -1,5 +1,5 @@
 :root {
-    --Cor2: rgb(147, 57, 155);
+    --Cor2: rgb(57, 140, 155);
 }
 
 *{
@@ -393,7 +393,7 @@ footer p {
 
 .end {
     position: absolute;
-    color: rgb(147, 57, 155);
+    color: rgb(57, 140, 155);
     bottom: 0px;
     font-size: 14px ;
     margin-top: 20px;
